@@ -1,5 +1,11 @@
 #ISIS1225 - Estructura de un proyecto
 
+#################################################################
+Integrantes del equipo:
+Juan Sebastián Castro (js.castrog@uniandes.edu.co) (201813107)
+Juan Diego Calixto (j.calixto@uniandes.edu.co) (202020774) 
+#################################################################
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
